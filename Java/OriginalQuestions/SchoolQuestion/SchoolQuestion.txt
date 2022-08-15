@@ -1,0 +1,26 @@
+Assume a school is using an ArrayList of HashMaps to manage the grades of the students of
+3 different classes
+
+Here's what you need to know;
+
+- There are 3 classes, each represented by a single HashMap for each
+- In each class, there are 5 students, each being recorded by their name and grade
+- You must populate the classes with each student, again only being recorded by
+*NAME* and *GRADE*
+
+What the school needs from you;
+
+- Create a system where the user will select a class (1, 2, or 3)
+- Show the user all the students in that class
+- Allow the user to type the name of the student in the class that they would like
+to retrieve the grade of
+- Allow the user to select a different class if they wish to do so, or to exit the system
+
+EX:
+
+Class 1:
+Anthony - 90
+Shahe - 85
+Giuliana - 99
+Joe - 67
+Gerald - 4

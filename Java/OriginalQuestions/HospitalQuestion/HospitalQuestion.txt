@@ -1,0 +1,11 @@
+Design a *BASIC* hospital waiting room system *USING PRIORITY QUEUE*
+
+Tips:
+
+- Create a patient class that will be the object contained within the queue
+- Implement a priority system using either the Comparator or Comparable interfaces
+- Create a Driver class where we will create some patients and test the system
+- For testing, we can use both a regular queue, and a priority queue, where the 
+patients will be inserted in the same order, and we can use an iteration structure
+such as an iterator or a foreach to loop through and print the contents of each to see
+how the priority aspect affects them.
